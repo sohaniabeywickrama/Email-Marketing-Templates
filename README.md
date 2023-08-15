@@ -7,4 +7,6 @@
 
   GEL
   https://www.figma.com/file/3vljLDdwOln8htOXAjmquC/GEL---Social-Media-Posts-July?type=design&node-id=0-1&mode=design&t=m7u4psEn1IWztCpC-0
-  
+
+  MEP
+  https://www.figma.com/file/Ea3KYfcjnLPlotpLqFJlZR/MEP-Email?type=design&mode=design&t=m7u4psEn1IWztCpC-0
