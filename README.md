@@ -3,4 +3,8 @@
 
   STUDY365 
   https://www.figma.com/file/QtToM3nH7yEmvDhrBRe633/STUDY365-email-promotion-(Copy)?type=design&node-id=0-1&mode=design&t=DFyPQyPBFAmktBmn-0
+
+
+  GEL
+  https://www.figma.com/file/3vljLDdwOln8htOXAjmquC/GEL---Social-Media-Posts-July?type=design&node-id=0-1&mode=design&t=m7u4psEn1IWztCpC-0
   
