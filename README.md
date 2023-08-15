@@ -10,3 +10,6 @@
 
   MEP
   https://www.figma.com/file/Ea3KYfcjnLPlotpLqFJlZR/MEP-Email?type=design&mode=design&t=m7u4psEn1IWztCpC-0
+
+  
+https://www.figma.com/file/s2GwUnaNbUbDdIfYOxA9ws/Assets?type=design&mode=design&t=m7u4psEn1IWztCpC-0
