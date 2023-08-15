@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58d5bc55-60a0-48ad-9950-28098f76d7f4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Sjgfuxc4ob1rzbSyZI5FWXk162" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\imprial\2023.8.03\1" />
+      <recent name="E:\imprial\2023.8.03\2" />
+      <recent name="E:\imprial\2023.8.02" />
+      <recent name="E:\imprial\2023.08.01" />
+      <recent name="E:\imprial\2023.8.01 New" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\imprial\2023.08.01" />
+      <recent name="E:\imprial\SLC" />
+      <recent name="E:\imprial\GEL" />
+      <recent name="E:\imprial\2023.7.21" />
+      <recent name="E:\imprial\Sohani" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58d5bc55-60a0-48ad-9950-28098f76d7f4" name="Default Changelist" comment="" />
+      <created>1689665513093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689665513093</updated>
+      <workItem from="1689665514956" duration="553000" />
+      <workItem from="1689666105164" duration="20950000" />
+      <workItem from="1689749179886" duration="17229000" />
+      <workItem from="1689835509997" duration="34930000" />
+      <workItem from="1690181844645" duration="32713000" />
+      <workItem from="1690353830811" duration="13052000" />
+      <workItem from="1690441533471" duration="21162000" />
+      <workItem from="1690525844683" duration="23650000" />
+      <workItem from="1690785539354" duration="123093000" />
+      <workItem from="1691214927916" duration="1037000" />
+      <workItem from="1691389861678" duration="307000" />
+      <workItem from="1691390225232" duration="43875000" />
+      <workItem from="1691564085599" duration="22306000" />
+      <workItem from="1691638549057" duration="7043000" />
+      <workItem from="1691736597599" duration="18275000" />
+      <workItem from="1691994997906" duration="9555000" />
+      <workItem from="1692010193954" duration="33000" />
+      <workItem from="1692010241848" duration="29607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
