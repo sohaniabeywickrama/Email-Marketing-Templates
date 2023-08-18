@@ -17,3 +17,5 @@ https://www.figma.com/file/s2GwUnaNbUbDdIfYOxA9ws/Assets?type=design&mode=design
 
 Email 
 https://www.figma.com/proto/cHAZ68aTLWhgVHJ3WDS3jN/SLC-email-promotion-(Copy)?type=design&node-id=1001-2&t=RxXgQmyyZbCNu2cN-1&scaling=min-zoom&page-id=0%3A1&mode=design
+
+https://www.figma.com/file/cHAZ68aTLWhgVHJ3WDS3jN/SLC-email-promotion-(Copy)?type=design&node-id=0-1&mode=design&t=DZYfV695eoaeTIgQ-0
