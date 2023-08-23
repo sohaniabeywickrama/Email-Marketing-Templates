@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58d5bc55-60a0-48ad-9950-28098f76d7f4" name="Default Changelist" comment="" />
+    <list default="true" id="58d5bc55-60a0-48ad-9950-28098f76d7f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/August/2023.8.23/Elevate your impact with Award in Education and Training.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/August/2023.8.23/SLC - Award in Education and Training.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,24 +33,24 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/July" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/August/2023.8.23" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Imprial\August\2023.8.23" />
       <recent name="E:\Imprial\July" />
       <recent name="E:\Imprial\August\2023.08.07" />
       <recent name="E:\Imprial\August\2023.08.03\2" />
       <recent name="E:\imprial\2023.8.03\1" />
-      <recent name="E:\imprial\2023.8.03\2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="2023.08.23" />
       <recent name="E:\Imprial" />
       <recent name="E:\imprial\2023.08.01" />
       <recent name="E:\imprial\SLC" />
       <recent name="E:\imprial\GEL" />
-      <recent name="E:\imprial\2023.7.21" />
     </key>
   </component>
   <component name="RunManager">
@@ -96,7 +100,7 @@
       <workItem from="1692341480212" duration="26730000" />
       <workItem from="1692689892702" duration="7000" />
       <workItem from="1692692270927" duration="2779000" />
-      <workItem from="1692772082882" duration="2597000" />
+      <workItem from="1692772082882" duration="7516000" />
     </task>
     <servers />
   </component>
