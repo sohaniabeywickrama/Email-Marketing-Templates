@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58d5bc55-60a0-48ad-9950-28098f76d7f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/August/2023.08.10/PUBLISH DATE 2023/09/15" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sap/National Online Learning day/PUBLISH DATE 2023.09.15" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/August/2023.08.10/Unleash your potential with Pearson BTEC Level 3 Education Training.html" beforeDir="false" afterPath="$PROJECT_DIR$/August/2023.08.10/Unleash your potential with Pearson BTEC Level 3 Education Training.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sap/Elevate your career by mastering Business and Management online!/Elevate your career by mastering Business and Management online!.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sap/Elevate your career by mastering Business and Management online!/SLC - National Online Learning Day - Revised.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +57,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,7 +104,8 @@
       <workItem from="1692689892702" duration="7000" />
       <workItem from="1692692270927" duration="2779000" />
       <workItem from="1692772082882" duration="26867000" />
-      <workItem from="1692859146357" duration="19612000" />
+      <workItem from="1692859146357" duration="21198000" />
+      <workItem from="1692884975853" duration="305000" />
     </task>
     <servers />
   </component>
