@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58d5bc55-60a0-48ad-9950-28098f76d7f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Sap/Rusith/GEL - OPERA PMS INTRODUCTION SESSION (1)/GEL - OPERA PMS INTRODUCTION SESSION (1).html" beforeDir="false" afterPath="$PROJECT_DIR$/Sap/Rusith/GEL - OPERA PMS INTRODUCTION SESSION (1)/GEL - OPERA PMS INTRODUCTION SESSION (1).html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sap/Rusith/MSP Emails/MSP Emails.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,25 +45,12 @@
       <recent name="E:\imprial\2023.8.03\1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Imprial\Sap\Rusith\MSP Emails" />
       <recent name="E:\Imprial\Sap\National Online Learning day" />
       <recent name="E:\Imprial" />
       <recent name="2023.08.23" />
       <recent name="E:\imprial\2023.08.01" />
-      <recent name="E:\imprial\SLC" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -99,7 +87,7 @@
       <workItem from="1692772082882" duration="26867000" />
       <workItem from="1692859146357" duration="21198000" />
       <workItem from="1692884975853" duration="7408000" />
-      <workItem from="1692945364822" duration="14973000" />
+      <workItem from="1692945364822" duration="16204000" />
     </task>
     <servers />
   </component>
