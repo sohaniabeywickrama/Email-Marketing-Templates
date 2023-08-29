@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58d5bc55-60a0-48ad-9950-28098f76d7f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Sap/Expert Scrum Master Certification/Expert Scrum Master Certification.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sap/International Literacy Day/PUBLISH DATE 2023.09.09" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sap/National Online Learning day/PUBLISH DATE 2023.09.15" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,19 @@
       <recent name="E:\imprial\2023.08.01" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -92,7 +104,7 @@
       <workItem from="1692977042466" duration="1842000" />
       <workItem from="1693121170657" duration="367000" />
       <workItem from="1693121579275" duration="527000" />
-      <workItem from="1693290394397" duration="4927000" />
+      <workItem from="1693290394397" duration="10971000" />
     </task>
     <servers />
   </component>
