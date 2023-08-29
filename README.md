@@ -19,3 +19,5 @@ Email
 https://www.figma.com/proto/cHAZ68aTLWhgVHJ3WDS3jN/SLC-email-promotion-(Copy)?type=design&node-id=1001-2&t=RxXgQmyyZbCNu2cN-1&scaling=min-zoom&page-id=0%3A1&mode=design
 
 https://www.figma.com/file/cHAZ68aTLWhgVHJ3WDS3jN/SLC-email-promotion-(Copy)?type=design&node-id=0-1&mode=design&t=DZYfV695eoaeTIgQ-0
+
+https://www.figma.com/file/NE1ak9m6QLIbe4CUOKEknk/1-training-email-promotion?type=design&node-id=0%3A1&mode=design&t=LefhTVm6jUm8qHd9-1
