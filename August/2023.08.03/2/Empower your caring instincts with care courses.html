@@ -394,3 +394,103 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .course-card {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin: 10px;
+            padding: 15px;
+            max-width: 300px;
+            display: inline-block;
+            vertical-align: top;
+            background-color: #fff;
+        }
+
+        .course-title {
+            font-size: 1.2em;
+            margin-bottom: 10px;
+        }
+
+        .course-description {
+            font-size: 0.9em;
+            color: #777;
+            margin-bottom: 10px;
+        }
+
+        .course-price {
+            font-size: 1.1em;
+            color: #007bff;
+            margin-bottom: 5px;
+            display: block;
+        }
+
+        .course-img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+        }
+
+        .course-button {
+            display: inline-block;
+            padding: 8px 16px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            text-align: center;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        @media screen and (max-width: 768px) {
+            .course-card {
+                max-width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<img src="header.jpg" alt="Header Image" style="max-width: 100%;">
+
+<div class="course-card">
+    <img class="course-img" src="course1.jpg" alt="Course 1 Image">
+    <h2 class="course-title">Course 1</h2>
+    <p class="course-description">Description for Course 1 goes here.</p>
+    <span class="course-price">$49.99</span>
+    <a href="#" class="course-button">Learn More</a>
+</div>
+
+<div class="course-card">
+    <img class="course-img" src="course2.jpg" alt="Course 2 Image">
+    <h2 class="course-title">Course 2</h2>
+    <p class="course-description">Description for Course 2 goes here.</p>
+    <span class="course-price">$59.99</span>
+    <a href="#" class="course-button">Learn More</a>
+</div>
+
+<div class="course-card">
+    <img class="course-img" src="course3.jpg" alt="Course 3 Image">
+    <h2 class="course-title">Course 3</h2>
+    <p class="course-description">Description for Course 3 goes here.</p>
+    <span class="course-price">$69.99</span>
+    <a href="#" class="course-button">Learn More</a>
+</div>
+
+</body>
+</html>
