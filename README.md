@@ -21,3 +21,13 @@ https://www.figma.com/proto/cHAZ68aTLWhgVHJ3WDS3jN/SLC-email-promotion-(Copy)?ty
 https://www.figma.com/file/cHAZ68aTLWhgVHJ3WDS3jN/SLC-email-promotion-(Copy)?type=design&node-id=0-1&mode=design&t=DZYfV695eoaeTIgQ-0
 
 https://www.figma.com/file/NE1ak9m6QLIbe4CUOKEknk/1-training-email-promotion?type=design&node-id=0%3A1&mode=design&t=LefhTVm6jUm8qHd9-1
+
+https://www.figma.com/file/BYyPcddlcrTpL7kvEkKuKo/1T-Youtubbe?type=design&node-id=0%3A1&mode=design&t=BZ9chaFVlKY3jKsh-1
+
+https://www.figma.com/file/n0etFsntC71eXjzLWrhkba/Study-365?type=design&node-id=14%3A43&mode=design&t=Thyhd751xTCiLsZu-1
+
+https://www.figma.com/file/AfdDtRiMKPNe86ITJhyO0F/Email-header-Study-365?type=design&node-id=0%3A1&mode=design&t=6OCUGjK66Kd4tRUr-1
+
+https://www.figma.com/file/4YIPwQZKdMtadrEE2koAcU/1T-Template?type=design&node-id=0%3A1&mode=design&t=RruVNt4qwuG64V8W-1
+
+https://www.figma.com/file/DtDZCyRBoSb35zhRVXwMJK/1-training?type=design&node-id=0%3A1&mode=design&t=p5heLUemJETrLHKJ-1
