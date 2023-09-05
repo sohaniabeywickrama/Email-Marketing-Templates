@@ -1,0 +1,504 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    /* background-color: white; */
+}
+
+a {
+    text-decoration: none;
+}
+
+ol{
+    padding-left: 1rem !important ;
+}
+
+ol .blog-p{
+    margin-left: -16px;
+}
+
+.heading-one{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0em;
+    text-align: left;    
+    color: #0E6936;
+}
+
+.blog-p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: justified;
+    color: #243823;
+
+}
+
+.subheading{
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: justified;
+    color: #0E6936;
+}
+
+.list-heading{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: justified;
+    color: #0E6936;
+}
+
+/* banner-section */
+
+.banner-btn{
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+    background: #84BA3F;
+    border-radius: 25px;
+    padding: 12px 50px;
+    border: none !important;
+}
+
+.banner-sec{
+    margin-top: -50px;
+}
+
+/* End banner-section */
+
+/* Faq */
+
+.accordion-button{
+    font-size: 20px !important;
+    font-weight: 500 !important;
+    line-height: 33px !important;
+    letter-spacing: 0em !important;
+    text-align: left;
+    color: #003D06 !important;
+    padding: 30px 0px 10px 0px !important;
+    border-bottom: 0.99px solid #0E6936 !important;
+}
+
+.accordion-item {
+    border: none !important;
+    
+   
+}
+
+.accordion-button:not(.collapsed) {
+    color: none;
+    background-color: white !important;
+    box-shadow: none !important;
+}
+
+.accordion-button:focus {
+    border-color: white !important;
+    outline: 0 !important;
+}
+
+.accordion-collapse.collapse.show{
+    border-bottom: none !important;
+}
+
+.accordion-button.collapsed {
+    box-shadow: none;
+}
+
+.accordion-body{
+    background: #B7B7B740;
+    color: #003D06;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;  
+}
+
+.accordion-item:last-of-type .accordion-button.collapsed{
+    border-radius: 0 !important;
+    border-bottom: 0.99px solid #0E6936 !important;
+}
+.accordion-button::after {
+    margin-top: 5px;
+    background-image: url("data:image/svg+xml,%3Csvg width='22' height='14' viewBox='0 0 22 14' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M10.2982 12.9365L1.27592 3.96051C0.859508 3.49782 0.859508 2.8038 1.27592 2.38739L2.34009 1.32322C2.7565 0.906805 3.45053 0.906805 3.91321 1.32322L11.0848 8.44852L18.2101 1.32322C18.6728 0.906805 19.3668 0.906805 19.7832 1.32322L20.8474 2.38739C21.2638 2.8038 21.2638 3.49782 20.8474 3.96051L11.8251 12.9365C11.4087 13.3529 10.7146 13.3529 10.2982 12.9365Z' fill='%2384BA3F'/%3E%3C/svg%3E") !important;
+    width: 22px;
+    height: 14px;
+}
+
+/* Related Products */
+
+.online-course .course__col {
+    position: relative;
+    padding: 20px 25px 25px 25px;
+    box-shadow: 0px 2px 40px rgb(0 0 0 / 10%);
+    border-radius: 5px;
+    background-color: white;
+    height: 100%;
+    /* max-width:  354px; */
+    height: 215.18px;
+    margin-top: 15px;
+}
+
+.online-course .course-content {
+    z-index: 2;
+    position: relative;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.online-course .course-meta {
+    display: flex;
+    gap: 35px;
+}
+
+.online-course .course-meta img {
+   margin-top: 2px;
+}
+
+.online-course .course-meta a {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+    text-decoration: none;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.online-course .course-pattern {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    left: 0;
+    bottom: 0;
+    background: url(https://cdn.study365.co.uk/wp-content/themes/study365/assets/img/home/course-pattern.png) no-repeat bottom left;
+    z-index: 1;
+}
+
+.online-course .btn-normal {
+    gap: 16px;
+    text-align: center;
+    color: white !important;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 17px;
+    padding: 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    height: 45px;
+    width: 100%;
+    background-color: #0E6836 !important;
+    border: 1px solid #0E6936;
+}
+
+.online-course .cut-price{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: line-through;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #949494;
+}
+
+.online-course .price{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #243823;
+}
+
+
+/* Form */
+
+/* .faq-form {
+    width: 85%;
+} */
+
+.faq-form .form-group label {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    color: #0E6836;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.faq-form .form-group :is(input, textarea) {
+    width: 100%;
+    max-width: 100%;
+    padding: 12px 15px;
+    font-weight: 400;
+    font-size: 16px;
+    border: 1px solid #DFDFDF;
+    border-radius: 8px;
+    color: #D1D1D1;
+}
+
+.faq-form .form-group {
+    margin-bottom: 35px !important;
+}
+
+.faq-form #contact-form textarea.form-control {
+    height: 150px !important;
+    border: 1px solid rgba(0, 0, 0, .1) !important;
+}
+
+.faq-form #contact-submit-btn {
+    width: 100% !important;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #84ba3f;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+/* Sidebar */
+
+
+.right-section{
+    background: #FBFDF9;
+    border-top-width: 7px;
+    border-top-style: solid;
+    border-top-color: #84ba3f;
+    padding: 25px 50px;
+}
+
+.avatar-sec{
+    border-bottom: 1px solid #9494943B;
+    padding: 0px 0 20px;
+}
+
+.sidebar-heading{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #414042;
+    
+}
+
+.sidebar-subheading{
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #0E6936;
+    
+}
+
+.register-section{
+    background: #FAFCF7;
+    border-top-width: 7px;
+    border-bottom-width: 7px;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    border-top-color: #84ba3f;
+    border-bottom-color: #84ba3f;
+    padding: 25px 50px; 
+    margin-top: 50px;
+    top: 0;
+    position: sticky;
+}
+
+.register-section p{
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #0E6936;    
+}
+
+.register-section span{
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #414042;    
+}
+
+.register-btn{
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+    background: #84BA3F;
+    border-radius: 25px;
+    padding: 12px 50px;
+}
+
+
+/* Enquire Now Popup */
+
+.modal {
+    padding: 0 0 30px
+}
+
+.modal-header{
+    border-bottom: none !important; 
+}
+
+.form-floating>label {
+    padding: .75rem !important;
+    font-weight: 400
+}
+
+.form-floating .iti {
+    width: 100%;
+}
+
+.iti {
+    width: 100% !important;
+}
+
+.form-floating .iti input[type=tel] {
+    width: 100%;
+    border-radius: .25rem;
+    height: 3.5rem !important;
+    line-height: 1.25;
+    font-size: 1rem;
+    border: 1px solid rgba(66, 66, 66, .43);
+    -webkit-box-shadow: none;
+    box-shadow: none
+}
+
+.iti__country {
+    padding: 5px 10px !important;
+    outline: 0
+}
+
+.iti__country-list {
+    list-style: none !important;
+    padding: 0 !important;
+}
+
+.form-floating>.form-select {
+    padding: 1rem .75rem .75rem !important
+}
+
+.invalid-feedback {
+    text-align: left
+}
+
+.form-floating #Message {
+    height: auto !important;
+    max-width: 100% !important;
+    border: 1px solid rgba(66, 66, 66, .43) !important
+}
+
+.form-floating #Message:focus {
+    border: 1px solid rgba(13, 110, 253, .25) !important
+}
+
+.form-submit-btn {
+    font-size: 1rem !important;
+    line-height: 27px;
+    color: #fff !important;
+    background: #84ba3f !important;
+    border-color: #84ba3f !important;
+    border-radius: 10px !important;
+    font-weight: 500 !important;
+    height: 50px;
+    width: 50% !important
+}
+
+#iti-1__country-listbox{
+    z-index: 3;
+}
+
+
+
+
+/* Media Quries */
+
+@media only screen and (max-width: 991px) {
+    .right-section {
+        margin-top: 50px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .banner-sec {
+        margin-top: -20px;
+    }
+
+    .online-course .course-meta{
+        align-items: center;
+    }
+}
+
+
+@media only screen and (max-width: 575px) {
+
+    .container {
+     padding: 0px 20px !important;
+    }
+
+    /* .mt-5{
+        margin-top: 1rem !important;
+    } */
+     
+    .heading-one{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    
+    .blog-p,
+    .list-heading,
+    .accordion-button,
+    .accordion-body,
+    .online-course .course-meta a{
+        font-size: 16px !important;
+    }
+
+    .subheading{
+        font-size: 28px;
+        line-height: 33px;
+    }
+    
+    .right-section,
+    .register-section{
+        padding: 25px 15px;
+    }
+
+    .modal-body{
+        padding: 20px 0;
+    }
+}
