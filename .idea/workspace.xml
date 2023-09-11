@@ -51,21 +51,6 @@
       <recent name="E:\imprial\2023.08.01" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -116,7 +101,8 @@
       <workItem from="1693916548640" duration="8899000" />
       <workItem from="1693983067260" duration="21899000" />
       <workItem from="1694068702625" duration="23070000" />
-      <workItem from="1694155932425" duration="19758000" />
+      <workItem from="1694155932425" duration="21439000" />
+      <workItem from="1694414570287" duration="1681000" />
     </task>
     <servers />
   </component>
