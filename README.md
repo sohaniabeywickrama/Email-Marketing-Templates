@@ -33,7 +33,11 @@ https://www.figma.com/file/4YIPwQZKdMtadrEE2koAcU/1T-Template?type=design&node-i
 https://www.figma.com/file/DtDZCyRBoSb35zhRVXwMJK/1-training?type=design&node-id=0%3A1&mode=design&t=p5heLUemJETrLHKJ-1
 
 Su SLC - https://www.figma.com/file/nuAiJ8mwZpX63N9bgG10nm/SLC-email-header?type=design&node-id=0%3A1&mode=design&t=A9sRhBi3wpEQfJDi-1
+
+
 su Study - https://www.figma.com/file/TuSBANVmofm86G2OgtUhll/Study-365-Email-templates?type=design&node-id=363%3A9&mode=design&t=SwM7R8yxardTxET0-1
+
+
 su Gel - https://www.figma.com/file/jhl33SLP9uXPj3apYQelMb/GEL-email-templates?type=design&node-id=0%3A1&mode=design&t=GAgYWCebjKlMjJIa-1
 
 
