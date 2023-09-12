@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58d5bc55-60a0-48ad-9950-28098f76d7f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Sap/SLC/New Care Courses/Care Courses.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,13 +53,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,7 +119,8 @@
       <workItem from="1694068702625" duration="23070000" />
       <workItem from="1694155932425" duration="21439000" />
       <workItem from="1694414570287" duration="22973000" />
-      <workItem from="1694500298609" duration="10621000" />
+      <workItem from="1694500298609" duration="11848000" />
+      <workItem from="1694523460088" duration="1620000" />
     </task>
     <servers />
   </component>
