@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58d5bc55-60a0-48ad-9950-28098f76d7f4" name="Default Changelist" comment="" />
+    <list default="true" id="58d5bc55-60a0-48ad-9950-28098f76d7f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sap/1Training/Expert Scrum Master Certification/Expert Scrum Master Certification.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sap/1Training/Expert Scrum Master Certification/Expert Scrum Master Certification.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sap/1Training/IASSC Certified Lean Six Sigma Green Belt™ &amp; Black Belt™ Bundle (1)/IASSC Certified Lean Six Sigma Green Belt™ &amp; Black Belt™ Bundle.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sap/1Training/IASSC Certified Lean Six Sigma Green Belt™ &amp; Black Belt™ Bundle (1)/IASSC Certified Lean Six Sigma Green Belt™ &amp; Black Belt™ Bundle.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,19 +52,6 @@
       <recent name="2023.08.23" />
       <recent name="E:\imprial\2023.08.01" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -116,7 +107,8 @@
       <workItem from="1694414570287" duration="22973000" />
       <workItem from="1694500298609" duration="11848000" />
       <workItem from="1694523460088" duration="7126000" />
-      <workItem from="1694586210589" duration="15859000" />
+      <workItem from="1694586210589" duration="18679000" />
+      <workItem from="1694674728934" duration="3080000" />
     </task>
     <servers />
   </component>
