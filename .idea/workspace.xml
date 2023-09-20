@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="58d5bc55-60a0-48ad-9950-28098f76d7f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sap/SLC/New Care Courses/Care Courses.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sap/SLC/New Care Courses/Care Courses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sap/SLC/Pearson BTEC Level 4 &amp; 5 Diploma in Management and Leadership/Pearson BTEC Level 4 and 5 Diplomas.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sap/SLC/Pearson BTEC Level 4 &amp; 5 Diploma in Management and Leadership/Pearson BTEC Level 4 and 5 Diplomas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sap/SLC/Promoting ATHE Level 4,5 dip in computing/Promoting ATHE Level 4,5 dip in computing.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sap/SLC/Promoting ATHE Level 4,5 dip in computing/Promoting ATHE Level 4,5 dip in computing.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,21 @@
       <recent name="2023.08.23" />
       <recent name="E:\imprial\2023.08.01" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -117,7 +133,7 @@
       <workItem from="1695019704463" duration="599000" />
       <workItem from="1695020826435" duration="19957000" />
       <workItem from="1695105650301" duration="20760000" />
-      <workItem from="1695192354779" duration="1248000" />
+      <workItem from="1695192354779" duration="4966000" />
     </task>
     <servers />
   </component>
