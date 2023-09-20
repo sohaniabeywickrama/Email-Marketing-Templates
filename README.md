@@ -40,5 +40,7 @@ su Study - https://www.figma.com/file/TuSBANVmofm86G2OgtUhll/Study-365-Email-tem
 
 su Gel - https://www.figma.com/file/jhl33SLP9uXPj3apYQelMb/GEL-email-templates?type=design&node-id=0%3A1&mode=design&t=GAgYWCebjKlMjJIa-1
 
+1Training  - https://www.figma.com/file/JKTFoTWBhWCFVK3nCLSK88/Email-Templates?type=design&node-id=2442-2&mode=design&t=SWlqXmC3KVKpmZak-0
+
 
 
