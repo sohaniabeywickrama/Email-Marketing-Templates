@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="58d5bc55-60a0-48ad-9950-28098f76d7f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sap/Study/STUDY365 - PRINCE2 AGILECOURSES/PRINCE2 Agile®Course.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sap/Study/STUDY365 - PRINCE2 AGILECOURSES/PRINCE2 Agile®Course.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oct/SLC/SLC - ATHE LEVEL 5 Diploma in Business &amp; management/1Training - PRINCE2 7th Edition - Awareness - Revised.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +54,19 @@
       <recent name="2023.08.23" />
       <recent name="E:\imprial\2023.08.01" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -122,7 +135,8 @@
       <workItem from="1695365061954" duration="26742000" />
       <workItem from="1695624097319" duration="28503000" />
       <workItem from="1695710470608" duration="23392000" />
-      <workItem from="1695883068112" duration="9365000" />
+      <workItem from="1695883068112" duration="11073000" />
+      <workItem from="1695902057760" duration="1738000" />
     </task>
     <servers />
   </component>
