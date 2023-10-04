@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="58d5bc55-60a0-48ad-9950-28098f76d7f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Oct/SLC/SLC - Caring for children and young people , Prevention and control infection/SLC - Certificate Introducing Caring for Children and Young People &amp; Award in the Prevention and Control of Infection (1).html" beforeDir="false" afterPath="$PROJECT_DIR$/Oct/SLC/SLC - Caring for children and young people , Prevention and control infection/SLC - Certificate Introducing Caring for Children and Young People &amp; Award in the Prevention and Control of Infection (1).html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,15 +55,13 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -147,7 +144,8 @@
       <workItem from="1696327989431" duration="16218000" />
       <workItem from="1696402037131" duration="724000" />
       <workItem from="1696402802758" duration="5939000" />
-      <workItem from="1696411675306" duration="1136000" />
+      <workItem from="1696411675306" duration="4899000" />
+      <workItem from="1696419700720" duration="2083000" />
     </task>
     <servers />
   </component>
