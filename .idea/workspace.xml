@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58d5bc55-60a0-48ad-9950-28098f76d7f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blogs Pages (Bootstrap)/British Computer Society (BCS) in 2024 A Comprehensive Overview/Blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blogs Pages (Bootstrap)/British Computer Society (BCS) in 2024 A Comprehensive Overview/Blog.html" afterDir="false" />
-    </list>
+    <list default="true" id="58d5bc55-60a0-48ad-9950-28098f76d7f4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +152,7 @@
       <workItem from="1696832848500" duration="1321000" />
       <workItem from="1696837197242" duration="18602000" />
       <workItem from="1696919874869" duration="846000" />
-      <workItem from="1696921333088" duration="19747000" />
+      <workItem from="1696921333088" duration="20097000" />
     </task>
     <servers />
   </component>
