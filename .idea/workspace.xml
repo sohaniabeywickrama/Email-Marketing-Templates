@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58d5bc55-60a0-48ad-9950-28098f76d7f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Oct/1Training/1TRANING - ITIL® 4 Foundation Course with Official Exam/New.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oct/1Training/1Training - IASSC Certified Lean Six Sigma Bundle Promotion/1Training - IASSC Certified Lean Six Sigma Bundle Promotion.html" beforeDir="false" afterPath="$PROJECT_DIR$/Oct/1Training/1Training - IASSC Certified Lean Six Sigma Bundle Promotion/1Training - IASSC Certified Lean Six Sigma Bundle Promotion.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +57,15 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -161,7 +165,8 @@
       <workItem from="1697179102623" duration="8022000" />
       <workItem from="1697189468851" duration="18115000" />
       <workItem from="1697437569564" duration="24409000" />
-      <workItem from="1697515647013" duration="14678000" />
+      <workItem from="1697515647013" duration="14772000" />
+      <workItem from="1697610323068" duration="7580000" />
     </task>
     <servers />
   </component>
