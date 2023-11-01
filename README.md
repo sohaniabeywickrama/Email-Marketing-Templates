@@ -37,6 +37,8 @@ Su SLC - https://www.figma.com/file/nuAiJ8mwZpX63N9bgG10nm/SLC-email-header?type
 
 su Study - https://www.figma.com/file/TuSBANVmofm86G2OgtUhll/Study-365-Email-templates?type=design&node-id=363%3A9&mode=design&t=SwM7R8yxardTxET0-1
 
+https://www.figma.com/proto/7uccMF0TQ0vVHCBFjxkFkS/Thakshila---Pages?page-id=4358%3A2532&type=design&node-id=4359-3439&viewport=903%2C119%2C0.06&t=J8WBbgpWYMnKj7CV-1&scaling=min-zoom&starting-point-node-id=4358%3A2533
+
 
 su Gel - https://www.figma.com/file/jhl33SLP9uXPj3apYQelMb/GEL-email-templates?type=design&node-id=0%3A1&mode=design&t=GAgYWCebjKlMjJIa-1
 
